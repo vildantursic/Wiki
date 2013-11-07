@@ -1,4 +1,4 @@
-Google Group is [here](https://groups.google.com/forum/?hl=en#!forum/ibuitclub)
+[Google Group](https://groups.google.com/forum/?hl=en#!forum/ibuitclub)
 
 ### Git
 
